@@ -394,7 +394,7 @@ VITE_SERVER_URL=https://your-backend-api-url.onrender.com
 ---
 
 <div align="center">
-  <p>Made with ❤️ for food lovers everywhere</p>
+  <p>Made with Mohamed Moghazy for food lovers everywhere</p>
   <p>
     <a href="#-food-delivery-app">⬆ Back to top</a>
   </p>
